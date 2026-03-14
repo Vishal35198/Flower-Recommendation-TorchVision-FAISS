@@ -46,11 +46,13 @@ Dataset used:
 Below are example recommendations produced by the system.
 
 <p align="center">
-<img src="images/result1.png" width="18%">
-<img src="images/result2.png" width="18%">
-<img src="images/result3.png" width="18%">
-<img src="images/result4.png" width="18%">
-<img src="images/result5.png" width="18%">
+<img src="download (10).png" width="100%">
+   <hr>
+<img src="download (11).png" width="100%">
+   <hr>
+<img src="download (14).png" width="100%">
+<hr>
+
 </p>
 
 Each row shows visually similar flower images retrieved by the model.
